@@ -13,7 +13,7 @@ public class DemoTwo {
 	public void subtract(int a, int b) {
 		System.out.println(a-b);
 	}
-	
+	//make the method overload
 	public void divide(int a, int b) {
 		System.out.println(a/b);
 	}
